@@ -6,4 +6,4 @@ Nesse primeiro momento foi criado uma página estática que será usada no proje
 
 Para acessar o layout Estático clique no link abaixo 👇
 
-<i><a href=""></a></i>
+<i><a href="https://dsm-eta-landing-page.vercel.app/">Acesse</a></i>
